@@ -129,18 +129,24 @@
 
 /* YourStyles.module.css */
 .links {
-  display: flex; /* Use Flexbox */
-  justify-content: space-between; /* Center the links horizontally */
-  
-  gap: 10px; /* Space between the links */
-  align-items: center; /* Vertically center the items */
-  margin-bottom: 15px; /* Optional: space between project link sets */
+  display: flex;
+  /* Use Flexbox */
+  justify-content: space-between;
+  /* Center the links horizontally */
+
+  gap: 10px;
+  /* Space between the links */
+  align-items: center;
+  /* Vertically center the items */
+  margin-bottom: 15px;
+  /* Optional: space between project link sets */
 }
 
 .link {
   font-size: 25px;
   text-decoration: none;
-  color: #eee; /* Example link color */
+  color: #eee;
+  /* Example link color */
   font-weight: bold;
   padding: 4px 12px;
   border: 1px solid #007bff;
@@ -153,8 +159,8 @@
   transform: scale(1.05);
 }
 
-@media screen and (max-width: 1113px){
-  .container{
+@media screen and (max-width: 1113px) {
+  .container {
     width: 47%;
     max-width: 400px;
   }
@@ -162,10 +168,14 @@
 
 
 /* Media queries for responsiveness */
-@media screen and (max-width: 670px){
-  .container{
+@media screen and (max-width: 670px) {
+  .container {
     width: 100%;
     margin: auto;
     max-width: 400px;
+  }
+
+  .description li {
+    font-size: 16px;
   }
 }
