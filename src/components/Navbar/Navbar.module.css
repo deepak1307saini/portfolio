@@ -118,6 +118,7 @@
     justify-content: none;
     min-height: 4rem;
     padding-top: 20px;
+  
   }
   .title {
     display: none;
@@ -137,6 +138,10 @@
     align-items: flex-start;
     gap: 11px;
     z-index: 51;
+  }
+
+  .menuItems{
+    justify-content:flex-start;
   }
 
   .menuItems li {
