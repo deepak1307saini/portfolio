@@ -1,0 +1,20 @@
+[
+  {
+    "degree": "B.Tech",
+    "details": "7.67 CGPA",
+    "duration": "2019-23",
+    "institute": "Indian Institute of Information Technology Kota, Jaipur - Electronics and Communication Engineering"
+  },
+  {
+    "degree": "12th RBSE",
+    "details": "89.20%",
+    "duration": "2017-18",
+    "institute": "Saini Adarsh Vidhya Mandir Sr. Sec. School (Main Branch), BANDIKUI (303313)"
+  },
+  {
+    "degree": "10th RBSE",
+    "details": "82.83%",
+    "duration": "2015-16",
+    "institute": "Saini Adarsh Vidhya Mandir Sr. Sec. School, Panchmukhi Panditpura, BANDIKUI (303313)"
+  }
+]

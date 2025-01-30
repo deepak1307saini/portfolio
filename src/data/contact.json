@@ -1,0 +1,17 @@
+[
+  {
+    "type": "Address",
+    "iconClass": "fa fa-location-arrow",
+    "values": ["Laungi walo ka bas, Badiyal road, Bandikui"]
+  },
+  {
+    "type": "Email",
+    "iconClass": "fa fa-envelope",
+    "values": ["deepak1307saini@gmail.com", "2019kuec2053@iiitkota.ac.in"]
+  },
+  {
+    "type": "Phone",
+    "iconClass": "fa fa-phone",
+    "values": ["+916367131104", "+917742765654"]
+  }
+]
