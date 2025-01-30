@@ -20,24 +20,28 @@
     "imageSrc": "https://img.icons8.com/nolan/64/oracle-logo.png"
   },
   {
-    "title": "Apache Kafka",
-    "imageSrc": "https://img.icons8.com/nolan/64/apache-kafka.png"
-  },
-  {
     "title": "Redis",
     "imageSrc": "https://img.icons8.com/color/48/redis--v2.png"
   },
   {
-    "title": "Docker",
-    "imageSrc": "https://img.icons8.com/color/48/docker.png"
+    "title": "Apache Kafka",
+    "imageSrc": "https://img.icons8.com/nolan/64/apache-kafka.png"
   },
   {
     "title": "AWS",
     "imageSrc": "https://img.icons8.com/nolan/64/amazon-web-services.png"
   },
   {
+    "title": "Docker",
+    "imageSrc": "https://img.icons8.com/color/48/docker.png"
+  },
+  {
     "title": "JUnit",
     "imageSrc": "/assets/skills/UnitTesting.png"
+  },
+  {
+    "title": "System Design",
+    "imageSrc": "/assets/skills/systemdesign.png"
   },
   {
     "title": "Git",
@@ -52,16 +56,16 @@
     "imageSrc": "https://img.icons8.com/color/48/jenkins.png"
   },
   {
-    "title": "System Design",
-    "imageSrc": "/assets/skills/systemdesign.png"
+    "title": "Multithreading",
+    "imageSrc": "/assets/skills/multithreading.png"
+  },
+  {
+    "title": "OS",
+    "imageSrc": "https://img.icons8.com/fluency/48/operating-system.png"
   },
   {
     "title": "OOP",
     "imageSrc": "/assets/skills/OOPS.png"
-  },
-  {
-    "title": "Multithreading",
-    "imageSrc": "/assets/skills/multithreading.png"
   },
   {
     "title": "DSA",
@@ -90,10 +94,6 @@
   {
     "title": "Debbugging",
     "imageSrc": "https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Debugging-security-vectorslab-flat-vectorslab.png"
-  },
-  {
-    "title": "OS",
-    "imageSrc": "https://img.icons8.com/fluency/48/operating-system.png"
   },
   {
     "title": "IntelliJ",
