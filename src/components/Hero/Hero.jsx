@@ -46,7 +46,7 @@ export const Hero = () => {
           </div>
           <div>
             <img src={getImageUrl(`/skills/svg/phone.svg`)} />
-            <a href="tel:+1234567890">+91 774 276 5654</a>
+            <a href="tel:+917742765654">+91 774 276 5654</a>
           </div>
           <div>
             <img src={getImageUrl(`/skills/svg/location.svg`)} />
