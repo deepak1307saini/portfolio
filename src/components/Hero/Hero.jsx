@@ -5,7 +5,7 @@ import { ReactTyped } from "react-typed";
 import socialLinks from "../../data/socialLinks.json";
 
 export const Hero = () => {
-  const roles = ["Software Developer", "Web Developer"];
+  const roles = ["Software Developer"];
   const cursorStyle = {
     fontWeight: "bold",
     color: "white",
