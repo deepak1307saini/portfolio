@@ -51,7 +51,7 @@ export const Hero = () => {
           <div>
             <img src={getImageUrl(`/skills/svg/location.svg`)} />
             <a href="https://maps.app.goo.gl/9W7HShnvnMWhCmvd6" target="_blank">
-              Ram Sai Marvel Apartment, Bebgaluru
+              Ram Sai Marvel Apartment, Bengaluru
             </a>
           </div>
         </div>
